@@ -1,0 +1,16 @@
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\bin\Debug\net6.0\Example_001.exe
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\bin\Debug\net6.0\Example_001.deps.json
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\bin\Debug\net6.0\Example_001.runtimeconfig.json
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\bin\Debug\net6.0\Example_001.dll
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\bin\Debug\net6.0\ref\Example_001.dll
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\bin\Debug\net6.0\Example_001.pdb
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\obj\Debug\net6.0\Example_001.GlobalUsings.g.cs
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\obj\Debug\net6.0\Example_001.csproj.AssemblyReference.cache
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\obj\Debug\net6.0\Example_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\obj\Debug\net6.0\Example_001.AssemblyInfoInputs.cache
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\obj\Debug\net6.0\Example_001.AssemblyInfo.cs
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\obj\Debug\net6.0\Example_001.csproj.CoreCompileInputs.cache
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\obj\Debug\net6.0\Example_001.dll
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\obj\Debug\net6.0\ref\Example_001.dll
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\obj\Debug\net6.0\Example_001.pdb
+C:\Users\ales1\OneDrive\Рабочий стол\Education_andr\Csharp\Vebinar_27.02\Example_001\obj\Debug\net6.0\Example_001.genruntimeconfig.cache
