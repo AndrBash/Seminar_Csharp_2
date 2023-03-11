@@ -1,18 +1,35 @@
 ﻿// Напишите цикл, который принимает на вход два числа (A и B) 
 // и возводит число A в натуральную степень B
 Console.Clear();
-void Sum (int A, int B)
+int ResultCode(string message)
 {
-    double Stepen = Math.Pow(A, B);
-    System.Console.WriteLine(Stepen);
+    System.Console.Write(message);
+    string valueIn = System.Console.ReadLine();
+    int result = int.Parse(valueIn);
+    return result;
 }
-int inputNumberWithMessage(string message)
+int Power(int valueBase, int valueStepen)
 {
-    System.Console.WriteLine(message);
-    int value = Convert.ToInt32(Console.ReadLine());
-    return value;
+    int power = 1;
+    for (int i = 0; i < valueStepen; i++)
+    {
+        power = power * valueBase;
+    }
+    return power;
 }
-int A = inputNumberWithMessage("Введите число A");
-int B = inputNumberWithMessage("Введите число B");
-System.Console.WriteLine("Result A^B is:");
-Sum(A, B);
+bool ValidateExponent(int stepen)
+{
+    if (stepen < 0)
+    {
+        System.Console.WriteLine("Показатель меньше нуля");
+        return false;
+    }
+    return true;
+}
+
+int valueBase = ResultCode("Введите число 1: ");
+int valueStepen = ResultCode("Введите число 2: ");
+if (ValidateExponent(valueStepen))
+{
+    System.Console.WriteLine($"{valueBase} ^ {valueStepen} = {Power(valueBase, valueStepen)}");
+}
