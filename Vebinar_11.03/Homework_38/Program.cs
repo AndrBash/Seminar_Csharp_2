@@ -21,9 +21,9 @@ void PrintArrayInConsole(int[] array)
 {
     (int minNum, int maxNum) amounts = (array[0], array[0]);
 
-    for(int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-        if(array[i] < amounts.minNum)
+        if (array[i] < amounts.minNum)
         {
             amounts.minNum = array[i];
         }
@@ -31,14 +31,14 @@ void PrintArrayInConsole(int[] array)
         {
             i = i++;
         }
-        if(array[i] > amounts.maxNum)
-            {
-                amounts.maxNum = array[i];
-            }
-            else
-            {
-                i = i++;
-            }
+        if (array[i] > amounts.maxNum)
+        {
+            amounts.maxNum = array[i];
+        }
+        else
+        {
+            i = i++;
+        }
     }
     return amounts;
 }
@@ -46,5 +46,5 @@ int size = 4;
 int[] array = CreateAndFillArray(size, 0, 10);
 PrintArrayInConsole(array);
 (int minNum, int maxNum) amounts = GetMinAndMax(array);
-System.Console.WriteLine($"Минимальное число = {amounts.minNum}, Максимальное число = {amounts.maxNum}, разница данных чисел {amounts.maxNum-amounts.minNum}");
+System.Console.WriteLine($"Минимальное число = {amounts.minNum}, Максимальное число = {amounts.maxNum}, разница данных чисел {amounts.maxNum - amounts.minNum}");
 
